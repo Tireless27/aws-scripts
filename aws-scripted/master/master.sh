@@ -14,3 +14,5 @@ else
 	exit
 fi
 
+# Create required Passwords generation
+./credentials/createpasswords.sh
